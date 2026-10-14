@@ -1,0 +1,7 @@
+# Configuration non sensible. Les identifiants sont fournis par ADC ou Streamlit Secrets.
+project_id: "test-barometre-juridique"
+dataset_id: "transparency"
+table_id: "reports_consolides"
+bucket_name: "transparen"
+region: "eu"
+prefix: ""
